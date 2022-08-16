@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+div[class="form-input"] {
+	margin: 10px 0;
+}
+
+*{
+	font-family: 'Roboto', sans-serif;
+}
+
+#footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+h2 {
+	font-family: 'Signika', sans-serif;
+}
+
+.view-post {
+	text-decoration: none;
+	color: #aaa;
+	font-weight: 500;
+}
+
+.view-post:hover {
+	color: black;
+}
+
+.post-wrapper {
+	max-width: 500px;
+	background-color: #eee;
+	margin: 0 auto;
+	padding: 10px 20px;
+}
